@@ -10,7 +10,7 @@ EVM :
 0x2c722A1F2f78105DBD5523292B735242Bd90B8Ed
 ```
 
-Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
+
 
 ## Steps
 
@@ -102,7 +102,7 @@ telegram : @rikindrn
 Ignore this!!!
 
 ```
-SWTRProxy = '0xea65D3f80d2253293a64e2f8DdF4CEC401823053'
-ProxyAdmin = '0x6a0baE5CF96d14e39FA9F5AdB4fadABb55B22E17'
-SWTRImplementation = '0xE4e93a474734E22A4f660EF1fE7aC3fc096E856c'
+SWTRProxy = '0x5b1994b6Ff7893215E593E6d137C974249Eff83d'
+ProxyAdmin = '0x0D91Ce54141636B07801cF0a452bD1b0A2b67d7F'
+SWTRImplementation = '0x4427bB3Ae1C292DB6017A8DBdA346F36F6A00B88'
 ```
