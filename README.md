@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x2c722A1F2f78105DBD5523292B735242Bd90B8Ed
 ```
 
 Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
@@ -17,7 +17,7 @@ Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone https://github.com/rikindrn/swisstronik-deploy-proxy.git
 ```
 
 ```bash
@@ -93,13 +93,11 @@ npm run upgrade
 
 by :
 
-github : [Mnuralim](https://github.com/Mnuralim)
+github : [rikindrn](https://github.com/rikindrn)
 
-twitter : @Izzycracker04
+twitter : @rikindrn
 
-telegram : @fitriay19
-
-youtube : https://www.youtube.com/@IzzyTSN
+telegram : @rikindrn
 
 Ignore this!!!
 
